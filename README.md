@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning<br><br>🌱 I’m currently learning Natural Language Processing <br><br>⚡ Fun fact: I dont know anything about the above mentioned domains <br><br> :))
+🔭 I’m currently working on Machine Learning<br><br>🌱 I’m also learning Natural Language Processing <br><br>⚡ Fun fact: I dont know anything about the above mentioned domains <br><br> :))
 
 
 ## 🌐 Socials:
@@ -62,16 +62,10 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="Figma" title="Figma"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="50" alt="Blender" title="Blender"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/framer/framer-original.svg" height="50" alt="Framer" title="Framer"/>
 </p>
 
 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
